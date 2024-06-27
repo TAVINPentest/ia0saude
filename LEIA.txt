@@ -1,0 +1,8 @@
+#instalar dependencias
+
+ npm i
+
+#RODAR APLICAÇAO
+
+node index.js
+localhost:3000
